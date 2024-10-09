@@ -36,7 +36,7 @@ The Sales Data Analytics Platform is designed to provide businesses with compreh
 
 4. **Power BI Configuration**:
    - Connect Power BI to the Redshift data warehouse.
-   - Create and publish dashboards and reports.
+   - Create and publish dashboards and reports. (Please refer to the powerbi_dashboard.pbix for a step by step guide) 
 
 5. **Microsoft Entra ID Configuration**:
    - Set up Microsoft Entra ID for user authentication and authorization.
